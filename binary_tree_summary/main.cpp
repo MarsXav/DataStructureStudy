@@ -128,7 +128,7 @@ public:
 
     void Print(vector<int> &res){
         for (int i : res){
-            cout << res[i] << " ";
+            cout << i << " ";
         }
     }
 };
